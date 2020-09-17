@@ -41,7 +41,7 @@ int main()
 
 	if (jour >= 1) 
 	{
-		argent +(45 * jour) + (0.05 * km) + (1.25 * litre); //prix par jour, par km de trop et litre
+		argent = +(45 * jour) + (0.05 * km) + (1.25 * litre); //prix par jour, par km de trop et litre
 
 
 
